@@ -1,1 +1,3 @@
-fashion_mnist_self.ipynb
+fashion_mnist_self.ipynbfashion-mnist_train.csv
+*.csv
+data/
